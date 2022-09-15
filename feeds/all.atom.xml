@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Iosif Solomon</title><link href="https://iosifsolomon.ro/" rel="alternate"></link><link href="https://iosifsolomon.ro/feeds/all.atom.xml" rel="self"></link><id>https://iosifsolomon.ro/</id><updated>2022-09-15T09:45:00+03:00</updated><entry><title>My First Post</title><link href="https://iosifsolomon.ro/my-first-post.html" rel="alternate"></link><published>2022-09-15T09:45:00+03:00</published><updated>2022-09-15T09:45:00+03:00</updated><author><name>Iosif Solomon</name></author><id>tag:iosifsolomon.ro,2022-09-15:/my-first-post.html</id><content type="html">&lt;p&gt;Pelican is a static site generator written in Python.
+It is very easy to use once you get use to it.
+You write content using Markdown or reStructuredText that will be converted by Pelican with a simple CLI command into html.&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
